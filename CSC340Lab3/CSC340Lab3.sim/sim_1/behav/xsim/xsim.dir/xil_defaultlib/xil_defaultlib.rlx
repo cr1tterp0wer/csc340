@@ -1,0 +1,12 @@
+0.6
+2019.2
+Nov  6 2019
+21:42:20
+/home/cr1tterp0wer/CSC340Lab3/CSC340Lab3.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+/home/cr1tterp0wer/CSC340Lab3/CSC340Lab3.srcs/sim_1/new/myMysteryTEST.v,1582494766,verilog,,,,myMysteryTEST,,,,,,,,
+/home/cr1tterp0wer/CSC340Lab3/CSC340Lab3.srcs/sources_1/new/myAnd.v,1582491839,verilog,,/home/cr1tterp0wer/CSC340Lab3/CSC340Lab3.srcs/sources_1/new/myInverter.v,,myAnd,,,,,,,,
+/home/cr1tterp0wer/CSC340Lab3/CSC340Lab3.srcs/sources_1/new/myInverter.v,1582491899,verilog,,/home/cr1tterp0wer/CSC340Lab3/CSC340Lab3.srcs/sources_1/new/myOr.v,,myInverter,,,,,,,,
+/home/cr1tterp0wer/CSC340Lab3/CSC340Lab3.srcs/sources_1/new/myOr.v,1582491858,verilog,,/home/cr1tterp0wer/CSC340Lab3/CSC340Lab3.srcs/sources_1/new/replicator.v,,myOr,,,,,,,,
+/home/cr1tterp0wer/CSC340Lab3/CSC340Lab3.srcs/sources_1/new/myReplicatorTEST.v,1582500226,verilog,,,,myReplicatorTEST,,,,,,,,
+/home/cr1tterp0wer/CSC340Lab3/CSC340Lab3.srcs/sources_1/new/mystery.v,1582494077,verilog,,/home/cr1tterp0wer/CSC340Lab3/CSC340Lab3.srcs/sim_1/new/myMysteryTEST.v,,mystery,,,,,,,,
+/home/cr1tterp0wer/CSC340Lab3/CSC340Lab3.srcs/sources_1/new/replicator.v,1582499486,verilog,,/home/cr1tterp0wer/CSC340Lab3/CSC340Lab3.srcs/sources_1/new/myReplicatorTEST.v,,replicator,,,,,,,,

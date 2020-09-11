@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:39:14 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Feb 29 14:12:54 2020
+# Process ID: 1663
+# Current directory: /home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.sim/sim_1/behav/xsim/xsim.dir/simple_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.sim/sim_1/behav/xsim/xsim.dir/simple_behav/webtalk/xsim_webtalk.tcl -notrace

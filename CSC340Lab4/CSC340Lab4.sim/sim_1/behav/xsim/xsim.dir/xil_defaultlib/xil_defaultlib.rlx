@@ -1,0 +1,11 @@
+0.6
+2019.2
+Nov  6 2019
+21:42:20
+/home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+/home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.srcs/sim_1/new/test_mux.v,1583009338,verilog,,,,test_mux,,,,,,,,
+/home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.srcs/sources_1/new/mux4to1.v,1583008701,verilog,,/home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.srcs/sim_1/new/test_mux.v,,mux4to1,,,,,,,,
+/home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.srcs/sources_1/new/origin.v,1583006836,verilog,,,,origin,,,,,,,,
+/home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.srcs/sources_1/new/original.v,1583005523,verilog,,/home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.srcs/sources_1/new/origin.v,,original,,,,,,,,
+/home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.srcs/sources_1/new/simple.v,1583007060,verilog,,,,simple,,,,,,,,
+/home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.srcs/sources_1/new/simplified.v,1583005809,verilog,,/home/cr1tterp0wer/CSC340Lab4/CSC340Lab4.srcs/sources_1/new/simple.v,,simplified,,,,,,,,

@@ -1,0 +1,12 @@
+
+{ 
+    crc :  8264778938628987492  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 2dda95eca81b4f449ff0c2b1f3d26d1f --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot multiplier4by3_behav xil_defaultlib.multiplier4by3 xil_defaultlib.glbl" , 
+    buildDate : "Nov  6 2019" , 
+    buildTime : "21:42:20" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/multiplier4by3_behav/xsimk\"   \"xsim.dir/multiplier4by3_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/multiplier4by3_behav/obj/xsim_1.lnx64.o\" -L\"/home/cr1tterp0wer/Documents/xilinx/install/Vivado/2019.2/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
